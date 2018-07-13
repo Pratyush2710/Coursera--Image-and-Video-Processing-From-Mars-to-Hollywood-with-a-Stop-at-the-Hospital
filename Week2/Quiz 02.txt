@@ -1,5 +1,5 @@
 			#######
-			QUIZ 01
+			QUIZ 02
 			#######
 
 Question 1  :-	Suppose we have an image with 256 different gray levels. All the gray values appear an equal number of times. Will variable-length coding lead to any compression in this image without additional processing?  
